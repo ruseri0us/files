@@ -7,3 +7,7 @@ def ran_str_hex(n):
 def random_string():
     return '_' + ran_str_hex(8) + '-' + ran_str_hex(4) + '-' + ran_str_hex(4) + '-' + ran_str_hex(4) + '-' + ran_str_hex(12)
 
+# In --init--py:
+# _unpack:
+
+# return sig_root, doc_root, c14n_inputs, reference_uris
