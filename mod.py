@@ -11,3 +11,7 @@ def random_string():
 # _unpack:
 
 # return sig_root, doc_root, c14n_inputs, reference_uris
+
+      <saml:AuthenticationStatement AuthenticationMethod="urn:federation:authentication:windows" AuthenticationInstant="2020-03-05T13:27:09.765Z">
+
+              <saml:AuthenticationStatement AuthenticationMethod="urn:oasis:names:tc:SAML:2.0:ac:classes:PasswordProtectedTransport" AuthenticationInstant="2020-03-05T13:26:51.000Z">
