@@ -1,0 +1,6 @@
+nmap -sn -iL ip.txt -oN internal_scan_outputs_ping_sweep.txt
+nmap -Pn -iL ip.txt -p- -sT -oA internal_scan_outputs_tcp_port_scan
+nmap -Pn -iL ip.txt -sT -A -oA internal_scan_outputs_tcp_service_scan -p <OPEN_PORTS>
+nmap -Pn -iL ip.txt -sU -oA internal_scan_outputs_udp_well_known_port_scan
+nmap -Pn -iL ip.txt -sU -A -oA internal_scan_outputs_udp_service_scan -p <OPEN_PORTS>
+nmap -Pn -iL ip.txt -p- -sU -oA internal_scan_outputs_udp_port_scan
