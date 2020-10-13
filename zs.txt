@@ -1,0 +1,70 @@
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
+PORT    STATE  SERVICE
+443/tcp open   https
+
